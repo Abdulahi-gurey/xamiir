@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eng Xamiir</h1>
-<h3 align="center">✔ I am Computer Science Student With Passionate Developing Websites, Mobile Applications, Desktop Applications and Some Other Stuff.....👨‍💻</h3>
+<p align="center">✔ I am Computer Science Student With Passionate Developing Websites, Mobile Applications, Desktop Applications and Some Other Stuff.....👨‍💻</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xamiir&label=Profile%20views&color=0e75b6&style=flat" alt="xamiir" /> </p>
