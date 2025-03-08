@@ -2,7 +2,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xamiir&label=Profile%20views&color=0e75b6&style=flat" alt="xamiir" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xamiir&label=Profile%20views&color=0e75b6&style=flat" alt="xamiir" /></p>
 
 - 💬 Ask me about **Kotlin, Flutter , MERN stack**
 
